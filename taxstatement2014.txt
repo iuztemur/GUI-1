@@ -1,0 +1,44 @@
+Customer ID : 1
+Year : 2014
+Short Term Assets
+
+ticker               	 quantity        	 original price       	 date bought 	 date sold  	 revenue              	 original cost        	 gain/loss              	 
+
+MS                   	 100             	 200                  	 04/17/2014 	 04/17/2014 	 1000                 	 20000.0              	 -19000.00            	 
+GS                   	 1000            	 10                   	 04/11/2013 	 04/18/2014 	 20000                	 10000.0              	 10000.00             	 
+
+
+
+Total Gain/Loss : 	-9000.0
+
+
+Long Term Assets
+
+ticker               	 quantity        	 original price       	 date bought 	 date sold  	 revenue              	 original cost        	 gain/loss              	 
+
+MS                   	 100             	 10                   	 04/12/2011 	 04/17/2014 	 1000                 	 1000.0               	 0.00                 	 
+GS                   	 10              	 200                  	 04/17/2010 	 04/17/2014 	 200                  	 2000.0               	 -1800.00             	 
+GS                   	 10              	 10                   	 04/19/2004 	 04/18/2014 	 200                  	 100.0                	 100.00               	 
+GS                   	 10              	 10                   	 04/17/2011 	 04/18/2014 	 200                  	 100.0                	 100.00               	 
+GS                   	 500             	 20                   	 04/17/2010 	 04/18/2014 	 10000                	 10000.0              	 0.00                 	 
+GS                   	 10              	 20                   	 04/14/2001 	 04/18/2014 	 200                  	 200.0                	 0.00                 	 
+GS                   	 20              	 20                   	 04/14/2010 	 04/18/2014 	 400                  	 400.0                	 0.00                 	 
+GS                   	 20              	 20                   	 04/17/2010 	 04/18/2014 	 400                  	 400.0                	 0.00                 	 
+GS                   	 20              	 20                   	 04/14/2010 	 04/18/2014 	 400                  	 400.0                	 0.00                 	 
+GS                   	 100             	 20                   	 04/04/2012 	 04/18/2014 	 2000                 	 2000.0               	 0.00                 	 
+GS                   	 1               	 20                   	 04/17/2010 	 04/19/2014 	 20                   	 20.0                 	 0.00                 	 
+
+
+Total Gain/Loss: 	-1600.0
+
+
+Distributions/Transfers to Retirement Accounts
+
+From Account    	 To Account      	 Asset                	 Transaction ID       	 Date Transferred     	 Equivalent Cash Amount    	 
+
+1               	 319             	 investment           	 256                  	 04/20/2014           	 10                        	 
+1               	 319             	 investment           	 257                  	 04/20/2014           	 10                        	 
+1               	 319             	 investment           	 255                  	 04/20/2014           	 10                        	 
+
+
+Total Distribution : 30.0
